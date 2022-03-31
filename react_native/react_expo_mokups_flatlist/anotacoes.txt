@@ -1,0 +1,22 @@
+npm install -- global expo-cli@4.7.2
+npm install -g expo-cli@4.7.2
+
+npm install -- global expo-cli
+npm install -g expo-cli
+
+expo init projetoX
+
+Este curso é composto por 10 módulos que totalizam 24 horas.
+
+Os módulos são:
+
+- Introdução
+- Hello React Native
+- Projeto X
+- Componentes (Criação de Componentes)
+- Entrega – Primeiros Contatos
+- Fontes e Melhorias (Importação de fontes do Google)
+- Mockups (Simulação de uma API)
+- Listas
+- Listas Otimizadas
+- Navegação 
