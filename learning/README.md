@@ -1,0 +1,2 @@
+- react_native: pequenos projetos de estudo com expo, consumir api fetch.
+- chart_js: gráficos rápidos com javascript

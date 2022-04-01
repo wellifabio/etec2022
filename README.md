@@ -4,9 +4,9 @@
 ---------
 - bancas: Aulas preparadas para bancas de processos seletivos
 ---------
-.Estudos de programação e frameworks
+.Estou estudando - programação, frameworks entre outros
 ---------
-- react_native: Programação para dispositivos móveis
+- learning: Programação para dispositivos móveis
 ---------
 .Conteúdos das aulas de Desenvolvimento de Sistemas
 ---------
